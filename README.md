@@ -34,6 +34,9 @@ __Android Components__
 - [Toast](https://developer.android.com/guide/topics/ui/notifiers/toasts)
 - [Device System Bar](https://developer.android.com/training/system-ui/status), [Device Navigation Bar](https://developer.android.com/training/system-ui/navigation) - [Android System UI Overview](https://developer.android.com/training/system-ui)
 - [Checkboxes](https://developer.android.com/guide/topics/ui/controls/checkbox)
+
+<img src="https://user-images.githubusercontent.com/70295997/207182835-006c1ffd-556f-42d0-987c-9c0b9b4a4af0.png" width=500>
+
 - [Radio Buttons](https://developer.android.com/guide/topics/ui/controls/radiobutton)
 - [Spinners](https://developer.android.com/guide/topics/ui/controls/spinner)
 - [Pickers](https://developer.android.com/guide/topics/ui/controls/pickers)
