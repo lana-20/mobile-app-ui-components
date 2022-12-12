@@ -19,7 +19,10 @@ __Android Components__
 <img src="https://user-images.githubusercontent.com/70295997/207134642-f8afbf6e-559e-47d3-bb10-d2092518b979.png" width=300>
 
 - [Top App Bar](https://developer.android.com/training/appbar)
-- [Floating Action](https://developer.android.com/guide/topics/ui/floating-action-button) Button and [Extended Floating Action Button](https://proandroiddev.com/flutter-how-to-using-bottomappbar-75d53426f5af)
+<img src="https://user-images.githubusercontent.com/70295997/207139864-12379c79-5a57-480d-9790-b5fd779ce580.png" width=300>
+
+
+- [Floating Action Button](https://developer.android.com/guide/topics/ui/floating-action-button) and [Extended Floating Action Button](https://proandroiddev.com/flutter-how-to-using-bottomappbar-75d53426f5af)
 - [Android Buttons: with text and no text (Image Buttons)](https://proandroiddev.com/flutter-how-to-using-bottomappbar-75d53426f5af)
 - [Bottom Sheet](https://material.io/develop/android/components/bottom-sheet-behavior/)
 - [Search Dialog vs Search Widget](https://developer.android.com/guide/topics/search/search-dialog) - [Overview](https://developer.android.com/guide/topics/search)
