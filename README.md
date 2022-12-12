@@ -25,7 +25,7 @@ __Android Components__
 <img src="https://user-images.githubusercontent.com/70295997/207180378-140e229e-1cf3-4424-9e0a-e8a61efdd290.png" width=500>
 <img src="https://user-images.githubusercontent.com/70295997/207180721-c7f80817-0fd8-4ef5-8848-250b1a1eeba1.png" width=500>
 
-- [Android Buttons: with text and no text (Image Buttons)](https://proandroiddev.com/flutter-how-to-using-bottomappbar-75d53426f5af)
+- [Android Buttons: with text and no text (Image Buttons)](https://developer.android.com/develop/ui/views/components/button)
 - [Bottom Sheet](https://material.io/develop/android/components/bottom-sheet-behavior/)
 
 <img src="https://user-images.githubusercontent.com/70295997/207182044-8bfcdb13-8f6e-4e25-95d8-4327673cee6e.png" width=300>
