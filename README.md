@@ -12,8 +12,7 @@
 __Android Components__
 
 - [Toggle Button](https://developer.android.com/guide/topics/ui/controls/togglebutton)
-<img src="https://user-images.githubusercontent.com/70295997/207135935-22f6fd9d-1de7-4a0a-a6fe-fee47b01eec9.png" width=500>
-
+<img src="https://user-images.githubusercontent.com/70295997/207181104-fcd392be-e2a1-47cc-b9ba-f4ffd71afd6b.png" width=500>
 
 - [Snackbar with Action](https://developer.android.com/training/snackbar/action)
 <img src="https://user-images.githubusercontent.com/70295997/207134642-f8afbf6e-559e-47d3-bb10-d2092518b979.png" width=300>
@@ -23,6 +22,12 @@ __Android Components__
 
 
 - [Floating Action Button](https://developer.android.com/guide/topics/ui/floating-action-button) and [Extended Floating Action Button](https://proandroiddev.com/flutter-how-to-using-bottomappbar-75d53426f5af)
+
+<img src="https://user-images.githubusercontent.com/70295997/207180378-140e229e-1cf3-4424-9e0a-e8a61efdd290.png" width=500>
+<img src="https://user-images.githubusercontent.com/70295997/207180721-c7f80817-0fd8-4ef5-8848-250b1a1eeba1.png" width=500>
+
+
+
 - [Android Buttons: with text and no text (Image Buttons)](https://proandroiddev.com/flutter-how-to-using-bottomappbar-75d53426f5af)
 - [Bottom Sheet](https://material.io/develop/android/components/bottom-sheet-behavior/)
 - [Search Dialog vs Search Widget](https://developer.android.com/guide/topics/search/search-dialog) - [Overview](https://developer.android.com/guide/topics/search)
