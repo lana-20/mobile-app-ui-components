@@ -34,6 +34,9 @@ __Android Components__
 <img src="https://user-images.githubusercontent.com/70295997/207186018-4dcad9b2-3c51-4236-b0f6-082068e79cbe.png" width=700>
 
 - [Search Dialog vs Search Widget](https://developer.android.com/guide/topics/search/search-dialog) - [Overview](https://developer.android.com/guide/topics/search)
+
+<img src="https://user-images.githubusercontent.com/70295997/207464612-7b8e9419-9c9e-4193-b4ca-4131c74d2fcf.png" width=500>
+
 - [Toast](https://developer.android.com/guide/topics/ui/notifiers/toasts)
 - [Device System Bar](https://developer.android.com/training/system-ui/status), [Device Navigation Bar](https://developer.android.com/training/system-ui/navigation) - [Android System UI Overview](https://developer.android.com/training/system-ui)
 - [Checkboxes](https://developer.android.com/guide/topics/ui/controls/checkbox)
