@@ -28,7 +28,7 @@ __Android Components__
 - [Android Buttons: with text and no text (Image Buttons)](https://developer.android.com/develop/ui/views/components/button)
 - [Bottom Sheet](https://material.io/develop/android/components/bottom-sheet-behavior/)
 
-<img src="https://user-images.githubusercontent.com/70295997/207182044-8bfcdb13-8f6e-4e25-95d8-4327673cee6e.png" width=300>
+<img src="https://user-images.githubusercontent.com/70295997/207186018-4dcad9b2-3c51-4236-b0f6-082068e79cbe.png" width=700>
 
 - [Search Dialog vs Search Widget](https://developer.android.com/guide/topics/search/search-dialog) - [Overview](https://developer.android.com/guide/topics/search)
 - [Toast](https://developer.android.com/guide/topics/ui/notifiers/toasts)
