@@ -15,7 +15,7 @@ __Android Components__
 <img src="https://user-images.githubusercontent.com/70295997/207181104-fcd392be-e2a1-47cc-b9ba-f4ffd71afd6b.png" width=500>
 
 - [Snackbar with Action](https://developer.android.com/training/snackbar/action)
-<img src="https://user-images.githubusercontent.com/70295997/207134642-f8afbf6e-559e-47d3-bb10-d2092518b979.png" width=300>
+<img src="https://user-images.githubusercontent.com/70295997/207424324-2e1f2232-448a-4e84-bc03-a3ac6bb6154d.png" width=700>
 
 - [Top App Bar](https://developer.android.com/training/appbar)
 <img src="https://user-images.githubusercontent.com/70295997/207139864-12379c79-5a57-480d-9790-b5fd779ce580.png" width=300>
