@@ -39,6 +39,9 @@ __Android Components__
 
 - [Toast](https://developer.android.com/guide/topics/ui/notifiers/toasts)
 - [Device System Bar](https://developer.android.com/training/system-ui/status), [Device Navigation Bar](https://developer.android.com/training/system-ui/navigation) - [Android System UI Overview](https://developer.android.com/training/system-ui)
+
+<img src="https://user-images.githubusercontent.com/70295997/207466739-00666bc3-a70d-4285-a65a-16cee1f3a4e0.png" width=300>
+
 - [Checkboxes](https://developer.android.com/guide/topics/ui/controls/checkbox)
 
 <img src="https://user-images.githubusercontent.com/70295997/207182835-006c1ffd-556f-42d0-987c-9c0b9b4a4af0.png" width=500>
@@ -47,10 +50,12 @@ __Android Components__
 
 <img src="https://user-images.githubusercontent.com/70295997/207420851-41abd21e-15f9-41ea-b00c-36f440d0aa8b.png" width=700>
 
-
-
 - [Spinners](https://developer.android.com/guide/topics/ui/controls/spinner)
 - [Pickers](https://developer.android.com/guide/topics/ui/controls/pickers)
+- [Tooltips](https://developer.android.com/develop/ui/views/components/tooltips)
+
+<img src="https://user-images.githubusercontent.com/70295997/207467634-dc2fdfd1-73d1-43a8-a736-dd5eaf6fafb3.png" width=300>
+
 
 ## iOS
 
